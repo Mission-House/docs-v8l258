@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5uhsbn.salamduit.cfd/sitemap.xml
